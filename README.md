@@ -45,4 +45,8 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 
 ## OUTPUT:
 
+![fre-grp](https://github.com/user-attachments/assets/b78fafd1-fc6c-470b-afce-4a711b95b313)
+![fref-grp](https://github.com/user-attachments/assets/9798a809-77b2-4fc7-a795-678cf981979d)
+
 ## RESULT:
+![full wave bridge](https://github.com/user-attachments/assets/4573e24c-c975-4c6a-a42c-7438f8fffa73)
