@@ -3,6 +3,10 @@
 ## AIM:
 To simulate a Full wave Bridge rectifier circuit and compare the outputs with and without filter:
 ## CIRCUIT DIAGRAM:
+<img width="1698" height="998" alt="image" src="https://github.com/user-attachments/assets/0855c674-f142-4afc-86af-c9aab9688461" />
+<img width="1311" height="1004" alt="image" src="https://github.com/user-attachments/assets/8ecc3031-62d0-48c1-aec2-08032cc663fd" />
+
+
 
 ## STEPS FOR SIMULATION:
 1.	Open the Ltspice software
